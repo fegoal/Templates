@@ -1,0 +1,12 @@
+*.class
+*.jar
+*.war
+*/target/**
+RemoteSystemsTempFiles/
+Servers/
+.metadata/
+
+bin/
+Sgdm-domain/.settings/
+Sgdm-ejb/.settings/
+Sgdm-web/.settings/
